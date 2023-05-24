@@ -1,0 +1,16 @@
+#faqs{
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+#faqs h3{
+    font-size: 3rem;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.parallax2{
+    background-image: url(../../public/img/Glaciar3.jpg)!important;
+}

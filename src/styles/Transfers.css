@@ -1,0 +1,51 @@
+#transfers h3{
+    font-size: 3rem;
+    text-align: center;
+    /* color: rgb(20, 163, 229); */
+}
+
+.transfers-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 75%;
+    border: 2px solid rgb(20, 163, 229);
+    margin-top: 30px;
+}
+
+.transfers-card{
+    display: flex;
+    background-color: rgb(233, 233, 233);
+}
+
+.transfers-card-img{
+    width: 30%;
+    min-height: 100%;
+}
+
+.transfers-card-img img{
+    width: 100%;
+    padding: 10px;
+}
+
+.trasfers-card-text{
+    padding: 30px;
+}
+
+.trasfers-card-text h4{
+    color: rgb(20, 163, 229);
+    font-weight: 200;
+}
+
+.trasfers-card-text button{
+    padding: 10px 25px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(20, 163, 229);
+    color: white;
+}
+
+.trasfers-card-text button:hover{
+    background-color: rgba(20, 163, 229, 0.837);
+}
+

@@ -1,0 +1,40 @@
+#testimonials h3{
+    font-size: 3rem;
+    text-align: center;
+    padding: 120px;
+}
+
+.Testimonials{
+    position: relative;
+  height: 100%;
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+
+/* .slider-controler .slider-arrow{
+    width: 3.5rem;
+    height: 3.5rem;
+    left: 42%;
+    border-radius: 50%;
+    transform: translateX(-42%);
+}
+
+.slider-controler .slider-arrow ion-icon{
+    font-size: 2rem;
+}  */

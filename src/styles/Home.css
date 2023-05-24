@@ -1,0 +1,30 @@
+
+.parallax{
+    width: 100%;
+    height: 80vh;
+    background-image: url(../../public/img/Glaciar2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-hero{
+    font-weight: 500;
+    color: white;
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+.text-hero h1{
+    font-weight: 500;
+    font-size: 3.2rem;
+}
+
+.text-hero p{
+    font-weight: 300;
+    font-size: 1.8rem;
+}
